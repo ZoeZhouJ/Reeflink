@@ -1,3 +1,5 @@
+# Add Parcel directory to gitignore
+parcels_tutorials (v3.1.0-3-g2c3dc23)/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
