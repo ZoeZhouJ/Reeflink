@@ -1,3 +1,32 @@
+# Igonre files in Parcels_tutorials file
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/.zattrs
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/.zmetadata
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/lat/.zarray
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/lat/0.144
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/lon/.zarray
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/lon/0.144
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/obs/.zarray
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/obs/144
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/time/.zarray
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/time/0.144
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/trajectory/0
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/z/.zarray
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles.zarr/z/0.144
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/.zattrs
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/.zmetadata
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/lat/.zarray
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/lat/0.144
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/lon/.zarray
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/lon/0.144
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/obs/.zarray
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/obs/144
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/time/.zarray
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/time/0.144
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/trajectory/0
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/z/.zarray
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/EddyParticles_Bwd.zarr/z/0.144
+ parcels_tutorials (v3.1.0-3-g2c3dc23)/parcels_tutorial.ipynb
+
 # Add Parcel directory to gitignore
 parcels_tutorials (v3.1.0-3-g2c3dc23)/
 # Byte-compiled / optimized / DLL files
